@@ -1,0 +1,7 @@
+cd /storage/emulated/0/Download/MakeBufferVideo/
+python app.py
+/storage/emulated/0/DCIM/Camera/yourvideo.mp4
+
+
+
+Replace yourvideo with whatever clip you have
